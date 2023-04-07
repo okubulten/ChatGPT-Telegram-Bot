@@ -1,4 +1,4 @@
-<h2>How to Deploy the ChatGPT Telegram Bot</h2>
+<h2>How to Deploy the ChatGPT Telegram s Bot</h2>
 <p>The ChatGPT Telegram Bot is a conversational AI application that can engage users in natural language conversations using OpenAI's GPT-3 language model. To deploy this bot on your Telegram account, you will need to follow these steps:</p>
 <h3>Step 1: Fork the Repository</h3>
 <p>Start by forking the repository and making your forked repository private to protect your OpenAI and Telegram Keys.</p>
