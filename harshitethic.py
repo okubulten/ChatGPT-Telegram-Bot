@@ -5,17 +5,17 @@ import json, os, string, sys, threading, logging, time, re, random
 import openai
 
 #OpenAI API key
-aienv = os.getenv('OPENAI_KEY')
+aienv = os.getenv('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')
 if aienv == None:
-    openai.api_key = "ENTER YOUR API KEY HERE"
+    openai.api_key = "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"
 else:
     openai.api_key = aienv
 print(aienv)
 
 #Telegram bot key
-tgenv = os.getenv('TELEGRAM_KEY')
+tgenv = os.getenv('6138954391:AAGFd-6ZAFXlHN9FwpDv5zxhW864zvy_DYc')
 if tgenv == None:
-    tgkey = "ENTER YOUR TELEGRAM TOKEN HERE"
+    tgkey = "6138954391:AAGFd-6ZAFXlHN9FwpDv5zxhW864zvy_DYc"
 else:
     tgkey = tgenv
 print(tgenv)
